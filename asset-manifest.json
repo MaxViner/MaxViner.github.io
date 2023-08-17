@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/static/css/main.157b6c98.css",
+    "main.js": "/static/js/main.a088b7ba.js",
+    "static/media/Rubik-VariableFont_wght.ttf": "/static/media/Rubik-VariableFont_wght.3a4acc0356c6ea73f2c3.ttf",
+    "static/media/Bg.svg": "/static/media/Bg.bf1bba71d5f2023a39fc.svg",
+    "static/media/search.svg": "/static/media/search.7ff7f6afbd64cf204206841c404f1da7.svg",
+    "static/media/location.svg": "/static/media/location.a59af09d001593afc145c3c767deed54.svg",
+    "index.html": "/index.html",
+    "static/media/sliderTab-dark.svg": "/static/media/sliderTab-dark.357414d26a54a000caaf66b9f9f935ff.svg",
+    "static/media/sliderTab-light.svg": "/static/media/sliderTab-light.1cedc81ac3568bed9515d0d7cd4afdfc.svg",
+    "static/media/close.svg": "/static/media/close.780a193e275b2e7cf05e9de279532971.svg",
+    "main.157b6c98.css.map": "/static/css/main.157b6c98.css.map",
+    "main.a088b7ba.js.map": "/static/js/main.a088b7ba.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.157b6c98.css",
+    "static/js/main.a088b7ba.js"
+  ]
+}
